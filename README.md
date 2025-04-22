@@ -1,7 +1,5 @@
 # Gestão Rebanho
 
-## Nome do grupo
-
 ## 👨‍🎓 Integrantes: 
 - Yuki Watanabe Kuramoto
 - Ricardo Batah Leone
