@@ -6,7 +6,6 @@
 - Yuki Watanabe Kuramoto
 - Ricardo Batah Leone
 - Cayo Henrique Gomes do Amaral
-- Lucas Lins Lima
 - Guilherme Martins Ventura Vieira Romeiro
 
 ## 👩‍🏫 Professores:
