@@ -17,6 +17,13 @@
 
 *Este projeto visa desenvolver um sistema simples, em Python, para a gestão de rebanhos bovinos com foco em rastreabilidade, voltado para pequenas propriedades rurais.*
 
+### Funcionalidades
+- Registro de animais (com dados como raça, sexo, data de nascimento e identificador único)
+- Consulta e listagem dos animais registrados
+- Registro de eventos no histórico do animal (ex: vacinação, venda)
+- Exportação dos dados em formato JSON
+- Integração com banco de dados Oracle (via cx_Oracle)
+- Interface via terminal com menus intuitivos
 
 ## 📁 Estrutura de pastas
 
