@@ -1,0 +1,16 @@
+[
+    {
+        "id": "4f60e8e4-3f5a-4a2a-8d99-bc365f2a3e4a",
+        "identificador": "BR123",
+        "raca": "Nelore",
+        "data_nascimento": "2022-05-14",
+        "sexo": "M",
+        "status": "Ativo",
+        "historico": [
+            {
+                "evento": "Vacina contra febre aftosa",
+                "data": "2023-03-01"
+            }
+        ]
+    }
+]
